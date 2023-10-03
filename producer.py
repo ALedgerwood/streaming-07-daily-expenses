@@ -31,3 +31,4 @@ for _, row in df.iterrows():
 
 # Close the connection
 connection.close()
+#finished!

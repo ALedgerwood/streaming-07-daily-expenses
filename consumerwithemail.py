@@ -68,3 +68,4 @@ channel.basic_consume(queue='expense_alerts', on_message_callback=callback, auto
 print('Waiting for expense alerts. To exit, press CTRL+C')
 channel.start_consuming()
 
+#finished!
