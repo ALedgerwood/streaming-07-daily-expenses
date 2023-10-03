@@ -9,5 +9,16 @@ I had not done the optional assignment of sending an alert to email, so I tackle
 
 The result is a simple producer and consumer app similar to existing banking apps that sends an email alert whenever it finds a daily expense of 5000 or more.
 
+Here is the expense alerts queue running in RabbitMQ
+![image](https://github.com/ALedgerwood/streaming-07-daily-expenses/assets/111438988/0ddd43b3-f4fe-446d-8581-6f67ff06f79b)
 
-#
+Here is the producer and consumer running is separate terminals indicating email alerts are being sent
+![image](https://github.com/ALedgerwood/streaming-07-daily-expenses/assets/111438988/a98d8449-d8ea-419d-998e-b5aff65983c0)
+
+Here are the email alerts in my inbox
+![image](https://github.com/ALedgerwood/streaming-07-daily-expenses/assets/111438988/0947f51e-3743-4da2-99d6-0660222a494d)
+
+
+
+
+
