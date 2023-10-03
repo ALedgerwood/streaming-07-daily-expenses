@@ -10,3 +10,4 @@ I had not done the optional assignment of sending an alert to email, so I tackle
 The result is a simple producer and consumer app similar to existing banking apps that sends an email alert whenever it finds a daily expense of 5000 or more.
 
 
+#
